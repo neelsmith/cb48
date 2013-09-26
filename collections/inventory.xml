@@ -6,8 +6,8 @@
     
     <citeCollection canonicalId="FolioPage" label="Label" urn="urn:cite:hcmid:cb48">
         <namespaceMapping
-            abbr="fuhc"
-            fullValue="http://shot.holycross.edu/ns/fuhc"/>
+	   abbr="hcmid"
+           fullValue="http://shot.holycross.edu/ns/hcmid"/>
         <title
             xmlns="http://purl.org/dc/elements/1.1/">Folios sides of  Codex Bodmer 48.</title>
         <creator
