@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/data/repos/bitbucket/archimedes-hc/collections/CiteCollectionInventory.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<collectionService
+    xmlns="http://chs.harvard.edu/xmlns/cite">
+
+    
+    <citeCollection canonicalId="FolioPage" label="Label" urn="urn:cite:hcmid:cb48">
+        <namespaceMapping
+            abbr="fuhc"
+            fullValue="http://shot.holycross.edu/ns/fuhc"/>
+        <title
+            xmlns="http://purl.org/dc/elements/1.1/">Folios sides of  Codex Bodmer 48.</title>
+        <creator
+            xmlns="http://purl.org/dc/elements/1.1/">Neel Smith</creator>
+        <coverage
+            xmlns="http://purl.org/dc/elements/1.1/">All pages of the  manuscript</coverage>
+        <description
+            xmlns="http://purl.org/dc/elements/1.1/">Simple model of page sequences </description>
+        
+        <rights
+            xmlns="http://purl.org/dc/elements/1.1/">All data in this collection are available under
+            the terms of the Creative Commons Attribution-Non-Commercial 3.0 Unported License,
+            http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</rights>
+        <orderedBy
+            property="Sequence"/>
+        <source type="file" value="cb48.csv"/>
+        <citeProperty name="FolioPage" label="URN" type="citeurn"></citeProperty>
+        <citeProperty name="Sequence" label="Sequence" type="number"></citeProperty>
+        <citeProperty name="Label" label="Page" type="string"></citeProperty>
+    </citeCollection>
+</collectionService>
