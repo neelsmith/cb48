@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Title</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div n="1" type="stanza">
+        <l n="1">Whan that <choice>
+            <abbr>Aple</abbr>
+            <expan>Aprile</expan>
+          </choice><choice>
+            <abbr>wt</abbr>
+            <expan>with</expan>
+          </choice>his shorris sote</l>
+        <l n="2">The drought of March hath <choice>
+            <abbr>prid</abbr>
+            <expan>perced</expan>
+          </choice> to þe rote</l>
+        <l n="3">And bathid every veyn in <choice>
+            <abbr>suis</abbr>
+            <expan>swiche</expan>
+          </choice> licour</l>
+        <l n="4">Of which vertue engendrid is þe flour</l>
+        <l n="5">Whan zephirus eke with his swete brethe</l>
+        <l n="6">Inspirid hath in every holt and hethe</l>
+        <l n="7">The tendir croppis and the yong <choice>
+            <abbr>snne</abbr>
+            <expan>sonne</expan>
+          </choice></l>
+        <l n="8">Hath in the ramme his half course y <choice>
+            <abbr>rnne</abbr>
+            <expan>ronne</expan>
+          </choice></l>
+        <l n="9">And smale foules maken melodie</l>
+        <l n="10">That slepen all night with open iye</l>
+        <l n="11">So prikith hem nature in her <choice>
+            <abbr>courage</abbr>
+            <expan>courages</expan>
+          </choice></l>
+        <l n="12">Than longen folk to go on <choice>
+            <abbr>pilgrimage</abbr>
+            <expan>pilgrimages</expan>
+          </choice></l>
+        <l n="13">And palmere to sechen straunge <choice>
+            <abbr>stronde</abbr>
+            <expan>strondes</expan>
+          </choice>
+        </l>
+        <l n="14">To <choice>
+            <abbr>fne</abbr>
+            <expan>ferne</expan>
+          </choice> halows couth in sundrie <choice>
+            <abbr>lande</abbr>
+            <expan>londes</expan>
+          </choice></l>
+        <l n="15">And speciali from every shiris ende</l>
+        <l n="16">Of Englond to cauntirbury they wende</l>
+        <l n="17">The holi blisful martir forto seke</l>
+        <l n="18">That hem hath holpen whan thei wer seke</l>
+       
+      </div>
+      <div n="2" type="stanza">
+        <l n="19">Befill that in that seson upon a day</l>
+      <l n="20">In Suthwerk at the Tabard as I lay</l>
+      <l n="21">Redi to wende on my pilgremage</l>
+      <l n="22">To cauntirbury <choice><abbr>wt</abbr><expan>with</expan></choice> devout courage</l>
+      <l n="23">At night were come into that hostirye</l>
+      <l n="24">Wele nyne and twenti in a cumpany</l>
+        <l n="25">Of sundrie folc bi aventure y falle</l>
+        <l n="26">In felaship and <choice><abbr>pilgmes</abbr><expan>pilgrimes</expan></choice> were thei all</l>
+        <l n="27">That toward cauntirbury wolden ride</l>
+        <l n="28">The chambirs and the stables wer wide</l>
+        <l n="29">And wel we weren easid at the best</l>
+        <l n="30">And shotli whan the <choice><abbr>snne</abbr><expan>sonne</expan></choice> was to rest</l>
+        <l n="31">So had spoken <choice><abbr>wt</abbr><expan>with</expan></choice>hem <choice><abbr>evychone</abbr><expan>evrychone</expan></choice></l>
+        <l n="32">That I was of her felaship anone</l>
+        <l n="33">And made forwird erli forto rise</l>
+        <l n="34">To take oure weye as I did devise</l>
+        <l n="35">But natheles whils that I have time &amp; space</l>
+        <l n="36">Or that I further in this tale pace</l>
+        <l n="37">Me think it accordinnt unto reson</l>
+        <l n="38">To telle you alle the condicion</l>
+        <l n="39">Of eche of them so as it semed me</l>
+        <l n="40">And which ther were and of what degre</l>
+        <l n="41">And eke what array that thei wer in</l>
+        <l n="42">And at knight than wil I first begyn</l>
+        
+     </div>
+    <div n="3" type="stanza">
+      <l n="43">A knight ther was &amp; þat a worthi <choice> <abbr>ma</abbr><expan> man</expan></choice></l>
+      <l n="44">That fro time that he first began</l>
+      <l n="45">To ride out he loved chevalrye</l>
+      <l n="46">Trouth honour fredam and curtesy</l>
+      <l n="47">Fful wourthie was he in his lordis werre</l>
+      <l n="48">And <choice><abbr>þto</abbr><expan>thereto</expan></choice> had he riden no man <choice><abbr>mor</abbr><expan>more</expan></choice> ferre</l>
+      <l n="49">As wel in christendom as in hethnesse</l>
+      <l n="50">And <choice><abbr>ev</abbr><expan>evere</expan></choice> honoured for his wurthinesse</l>
+      <l n="51">At Alexander he was whan it was won</l>
+      <l n="52">Fful ofttime he had the bord <choice> <abbr> begune</abbr><expan> begunne</expan></choice></l>
+      <l n="53">Aboven alle nacions in Pruce</l>
+      <l n="54">In Lettow had he riden and in Ruce</l>
+      <l n="55">No christenman so ofte of his degre</l>
+      <l n="56">In Garnade at the sege eke had he be</l>
+      <l n="57">Of Algazir and riden in Belmary</l>
+      <l n="58">At Lies was he and at Sataly</l>
+      <l n="59">Whan thei wer won &amp; in the gret see</l>
+      <l n="60">At many a noble Armee had he be</l>
+      <l n="61">At mortal baails had he ben fiftene</l>
+      <l n="62">And fought for oure feith at Tramassene</l>
+      <l n="63">In listis thrice &amp; alway slayn his fo</l>
+      <l n="64">This ilk wurthi knight had ben also</l>
+      <l n="65">Sumtime with the lord of Palacy</l>
+      <l n="66">Ayene anothir hethin in Tirky</l>
+      <l n="67">And <choice><abbr>evmore</abbr><expan>everemore</expan></choice>he had soveyn price</l>
+      <l n="68">he was ful wurthi and ful wise</l>
+      <l n="69">And of his post as meke as a maid</l>
+      <l n="70">he <choice><abbr>nev</abbr><expan>never</expan></choice>yit no vilany said</l>
+      <l n="71">In al his lif to no maner wight</l>
+      <l n="72">he was a veray parfit gentil knigt</l>
+      <l n="73">And forto telle you of his array</l>
+      <l n="74">his hors were good but he was not gay</l>
+      <l n="75">Of fustian he ware a gipon</l>
+      <l n="76">Al besmotird with his haburgeon</l>
+      <l n="77">Ffor he was late y <choice><abbr>com</abbr><expan>come</expan></choice> from his viage</l>
+      
+    
+     
+      
+    
+    
+    </div>
+    </body>
+  </text>
+</TEI>
